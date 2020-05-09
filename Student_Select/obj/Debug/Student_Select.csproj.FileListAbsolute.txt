@@ -48,6 +48,6 @@ d:\Users\dc\Documents\Visual Studio 2015\Projects\C#_test\test\Student_select\St
 d:\Users\dc\Documents\Visual Studio 2015\Projects\C#_test\test\Student_select\Student_Select\bin\Debug\EntityFramework.xml
 d:\Users\dc\Documents\Visual Studio 2015\Projects\C#_test\test\Student_select\Student_Select\bin\Debug\EntityFramework.SqlServer.xml
 d:\Users\dc\Documents\Visual Studio 2015\Projects\C#_test\test\Student_select\Student_Select\bin\Debug\zh-Hans\EntityFramework.resources.dll
-d:\Users\dc\Documents\Visual Studio 2015\Projects\C#_test\test\Student_select\Student_Select\obj\Debug\Student_Select.csprojResolveAssemblyReference.cache
 d:\Users\dc\Documents\Visual Studio 2015\Projects\C#_test\test\Student_select\Student_Select\obj\Debug\Student_Select.AddInfo.resources
 d:\Users\dc\Documents\Visual Studio 2015\Projects\C#_test\test\Student_select\Student_Select\obj\Debug\Student_Select.Modify.resources
+d:\Users\dc\Documents\Visual Studio 2015\Projects\C#_test\test\Student_select\Student_Select\obj\Debug\Student_Select.csprojResolveAssemblyReference.cache
